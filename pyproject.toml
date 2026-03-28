@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "u1-pipeline"
+version = "0.1.0"
+description = "Snapmaker U1 FullSpectrum v0.94-first textured asset conversion pipeline"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.24",
+  "Pillow>=10.0",
+  "trimesh>=4.0",
+  "streamlit>=1.30",
+  "plotly>=5.0"
+]
+
+[project.scripts]
+u1fs = "u1_pipeline_cli.main:main"
+
+[tool.setuptools.packages.find]
+include = ["u1_pipeline_core*", "u1_pipeline_cli*", "u1_pipeline_web*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

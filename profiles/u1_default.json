@@ -1,0 +1,45 @@
+{
+  "name": "u1_default",
+  "version": 1,
+  "printer": "Snapmaker U1",
+  "slots": [
+    {
+      "slot_id": 1,
+      "hex": "#FFFFFF",
+      "material": "PLA",
+      "brand": "",
+      "label": "T1",
+      "td": null
+    },
+    {
+      "slot_id": 2,
+      "hex": "#FF9900",
+      "material": "PLA",
+      "brand": "",
+      "label": "T2",
+      "td": null
+    },
+    {
+      "slot_id": 3,
+      "hex": "#FFCC33",
+      "material": "PLA",
+      "brand": "",
+      "label": "T3",
+      "td": null
+    },
+    {
+      "slot_id": 4,
+      "hex": "#FF3333",
+      "material": "PLA",
+      "brand": "",
+      "label": "T4",
+      "td": null
+    }
+  ],
+  "mix_policy": {
+    "max_virtual_slots": 40,
+    "max_pattern_len": 6,
+    "prefer_2_color_mix": true,
+    "allow_3_4_color_pattern": false
+  }
+}

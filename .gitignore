@@ -1,0 +1,42 @@
+# OS/editor/cache
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Python virtual/build artifacts
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+
+# Generated outputs
+out/
+uploads/
+glTF/
+
+# 3D model/source/target assets
+*.3mf
+*.3ds
+*.dae
+*.fbx
+*.glb
+*.gltf
+*.obj
+*.mtl
+*.stl
+*.usd
+*.usdz
+*.ply
+
+# Texture/image assets
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.bmp
+*.tif
+*.tiff
+*.webp
+*.gif
